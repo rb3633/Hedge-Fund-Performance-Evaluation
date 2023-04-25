@@ -29,8 +29,7 @@ As regression is unreliable when features are highly correlated, removed the fea
 
 
 
-!(Img/D_Scatter.JPG)
-
+![alt_text](Img/D_Scatter.jpg)
 Fig: Scatterplot to visualize distributions of all BMs against manager D
 
 
