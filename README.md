@@ -29,10 +29,11 @@ As regression is unreliable when features are highly correlated, removed the fea
 
 
 <p align="center">
-![alt_text](Img/D_Scatter.jpg)
- </p>
+ <img src="https://github.com/rb3633/Img/D_Scatter.png" />
+</p>
 Fig: Scatterplot to visualize distributions of all BMs against manager D
 
+#![alt_text](Img/D_Scatter.jpg)
 
 iv) Broad Regression:
 As we are interested in relative returns, the cash/risk-free return is subtracted from all benchmarks and manager D. The regression is performed on these relative returns across all the remaining benchmarks(after removing highly correlated benchmarks).
