@@ -30,9 +30,10 @@ As regression is unreliable when features are highly correlated, removed the fea
 
 <p align="center">
  <img src="https://github.com/rb3633/Hedge-Fund-Performance-Evaluation/blob/main/Img/D_Scatter.png" alt="image"/>
- Fig: Scatterplot to visualize distributions of all BMs against manager D
 </p>
-
+<p align="center">
+Fig: Scatterplot to visualize distributions of all BMs against manager D
+</p>
 
 
 iv) Broad Regression:
