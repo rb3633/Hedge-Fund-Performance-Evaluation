@@ -1,6 +1,8 @@
 # Hedge-Fund-Performance-Evaluation
 Regression Analysis deep dive on example hedge fund return data
 
+Full code and flow is available in the Analysis_Code notebook in this repo
+
 ## A)	Objective: 
 
 ### Exercise:  
