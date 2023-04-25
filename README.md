@@ -36,7 +36,8 @@ Fig: Scatterplot to visualize distributions of all BMs against manager D
 iv) Broad Regression:
 As we are interested in relative returns, the cash/risk-free return is subtracted from all benchmarks and manager D. The regression is performed on these relative returns across all the remaining benchmarks(after removing highly correlated benchmarks).
 
- 
+
+![alt_text](Img/D_Reg_all.png)
 Fig: Reg results of all non-correlated benchmarks
 
 
